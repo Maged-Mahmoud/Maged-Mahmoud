@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Modern computer vision techniques and practical data science on AWS**
 
-- 👨‍💻 All of my projects are available at [Kaggle and GitHub](Kaggle and GitHub)
+- 👨‍💻 All of my projects are available at (Kaggle and GitHub)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/maged-mahmoud-413746131](LinkedIn)
+- 📝 I regularly write articles on (LinkedIn)
 
 - 💬 Ask me about **Machine learning algorithms, computer vision techniques, data science tools**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/maged-mahmoud-413746131](LinkedIn)
 
-- ⚡ Fun fact **I believe I will do it.**
+- ⚡ Fact **I believe I will do it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
