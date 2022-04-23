@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **magedmahmoud665@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/maged-mahmoud-413746131](https://www.linkedin.com/in/maged-mahmoud-413746131)
+- 📄 Know about my experiences [https://www.linkedin.com/in/maged-mahmoud-413746131](LinkedIn)
 
 - ⚡ Fun fact **I believe I will do it.**
 
