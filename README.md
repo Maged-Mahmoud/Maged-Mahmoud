@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Kaggle and GitHub](Kaggle and GitHub)
 
-- 📝 I regularly write articles on [LinkedIn](LinkedIn)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/maged-mahmoud-413746131](LinkedIn)
 
 - 💬 Ask me about **Machine learning algorithms, computer vision techniques, data science tools**
 
