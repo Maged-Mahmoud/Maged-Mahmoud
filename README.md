@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maged Mahmoud</h1>
-<h3 align="center">Junior Data Scientist and Machine Learning Engineer with high command and hands-on experience in implementing Machine Learning, Data Science and Deep Learning models using Scikit Learn, TensorFlow and Keras. Highly motivated to solve real life challenges using AI Solutions. Seeking a challenging opportunity where acquired technical, analytical, organizational and communication skills would be employed and further enhanced.</h3>
+<h3 align="center">Data Scientist and Machine Learning Engineer with high command and hands-on experience in implementing Machine Learning, Data Science and Deep Learning models using Scikit Learn, TensorFlow and Keras. Highly motivated to solve real life challenges using AI Capabilities.</h3>
 
 - 🔭 I’m currently working on **Root cause of drilling bit failure based on computer vision**
 
