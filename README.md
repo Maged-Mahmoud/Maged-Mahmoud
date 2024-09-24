@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maged Mahmoud</h1>
 <h3 align="center">Data Scientist and Machine Learning Engineer with high command and hands-on experience in implementing Machine Learning, Data Science and Deep Learning models using Scikit Learn, TensorFlow and Keras. Highly motivated to solve real life challenges using AI Capabilities.</h3>
 
-- 🔭 I’m currently working on **Root cause of drilling bit failure based on computer vision**
-
-- 🌱 I’m currently learning **Modern computer vision techniques and practical data science on AWS**
-
-- 👨‍💻 All of my projects are available at (Kaggle and GitHub)
+- Most of my projects are private repo.
 
 - 📝 I regularly write articles on (LinkedIn)
 
